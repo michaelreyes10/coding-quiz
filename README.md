@@ -8,8 +8,8 @@
 * [Acceptance_Criteria](#acceptance_criteria)
 * [License](#license)
 * [Github](#github)
-* [Email](#email)
-* [Video](#video)
+
+
     
 
 
